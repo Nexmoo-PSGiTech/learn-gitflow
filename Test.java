@@ -4,6 +4,5 @@ public class Test
     {
         String x=ar[0]+ar[1];
         System.out.println(x);
-
     }
 }
